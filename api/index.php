@@ -16,7 +16,6 @@
  */
 
 require_once __DIR__ . '/../db.php';
-
 $app_name = "TriNova";
 $app_tagline = "OPD Triage Assistant — AI-Assisted Patient Prioritization";
 
