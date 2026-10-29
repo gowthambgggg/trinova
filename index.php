@@ -16,7 +16,7 @@
  *  - Level 1: Lowest Priority (Minimal / Non-Urgent)
  */
 
-require_once __DIR__ . '/db.php';
+require_once __DIR__ . '/../db.php';
 
 $app_name = "TriNova";
 $app_tagline = "OPD Triage Assistant — AI-Assisted Patient Prioritization";
