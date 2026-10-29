@@ -64,7 +64,7 @@ $initial_patient_id = "TRN-" . date('Y') . "-" . strtoupper(substr(bin2hex(rando
                 </div>
                 <div class="facility-meta">
                     <span class="meta-label">Protocol</span>
-                    <span class="meta-val">Level 5 (Highest) &rarr; Level 1 (Lowest)</span>
+                    <span class="meta-val">Level 5 (Lowest) &rarr; Level 1 (Highest)</span>
                 </div>
                 <a href="#queueSection" class="btn-history-jump">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
